@@ -24,6 +24,7 @@ jobs:
           SHOW_EDITORS: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
           
           SHOW_LINES_OF_CODE: false
           SHOW_PROFILE_VIEWS: false
