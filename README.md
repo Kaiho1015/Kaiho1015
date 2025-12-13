@@ -65,3 +65,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaiho1015/Kaiho1015/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
