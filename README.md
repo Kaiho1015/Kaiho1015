@@ -8,20 +8,21 @@
 
 <table>
   <tr>
-    <td valign="center">
-      <h3> About Me</h3>
+    <td valign="top" width="60%">
+      <h3>About Me</h3>
       <ul>
         <li><strong>AI & Agents:</strong> Building orchestration layers & workflows.</li>
-        <li><strong>Backend:</strong> High-perf systems with <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="14"/> & <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="14"/>.</li>
+        <li><strong>Backend:</strong> High-perf systems with <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="13"/> & <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="13"/>.</li>
         <li><strong>Frontend:</strong> Crafting UIs via <strong>Next.js</strong> & <strong>React</strong>.</li>
         <li><strong>Infra:</strong> Arch Linux, Docker & K8s enthusiast.</li>
         <li><strong>Focus:</strong> System Design & AI Orchestration.</li>
       </ul>
     </td>
-    <td valign="center">
+    <td valign="top" width="40%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kaiho1015&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=999&count_private=true" height="140" />
-      </div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kaiho1015&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=999&count_private=true" height="135" />
+        <br/>
+        </div>
     </td>
   </tr>
 </table>
@@ -56,8 +57,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaiho1015/Kaiho1015/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kaiho1015/Kaiho1015/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Kaiho1015/Kaiho1015/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaiho1015/Kaiho1015/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaiho1015/Kaiho1015/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaiho1015/Kaiho1015/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
