@@ -67,6 +67,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -98,5 +100,5 @@ Bash                     2 mins              ███████████�
 ```
 
 
- Last Updated on 14/12/2025 01:23:03 UTC
+ Last Updated on 15/12/2025 01:20:15 UTC
 <!--END_SECTION:waka-->
