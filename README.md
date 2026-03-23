@@ -67,7 +67,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -96,9 +96,10 @@ Sunday                   574 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 32 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 35 mins       ███████████████████░░░░░░   74.22 % 
+TypeScript               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
 ```
 
 
- Last Updated on 22/03/2026 01:52:36 UTC
+ Last Updated on 23/03/2026 01:53:45 UTC
 <!--END_SECTION:waka-->
