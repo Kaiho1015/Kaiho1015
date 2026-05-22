@@ -67,26 +67,24 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2027%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                795 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-🌆 Daytime                1807 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌃 Evening                1802 commits        █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌙 Night                  584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌞 Morning                797 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                1809 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
+🌃 Evening                1803 commits        █████████░░░░░░░░░░░░░░░░   36.11 % 
+🌙 Night                  584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Wednesday                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 1021 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Friday                   617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 715 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Sunday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Monday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Wednesday                810 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 1025 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Friday                   617 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Saturday                 715 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Sunday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 
 
@@ -100,5 +98,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 02:52:35 UTC
+ Last Updated on 22/05/2026 02:53:33 UTC
 <!--END_SECTION:waka-->
