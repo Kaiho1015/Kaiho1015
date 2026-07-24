@@ -67,8 +67,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2027%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -100,5 +98,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2026 02:16:00 UTC
+ Last Updated on 24/07/2026 02:12:40 UTC
 <!--END_SECTION:waka-->
